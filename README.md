@@ -4,15 +4,15 @@
 
 
 
-![](https://github.com/MikasaEmiya/RainmeterSkins_4K/raw/master/images/关于本机.png))
+<img src="https://github.com/MikasaEmiya/RainmeterSkins_4K/raw/master/images/关于本机.png" style="zoom: 50%;" />
 
 
 
-![](https://github.com/MikasaEmiya/RainmeterSkins_4K/raw/master/images/音频.png))
+<img src="https://github.com/MikasaEmiya/RainmeterSkins_4K/raw/master/images/音频.png" style="zoom: 50%;" />
 
-![](https://github.com/MikasaEmiya/RainmeterSkins_4K/raw/master/images/蓝牙.png))
+<img src="https://github.com/MikasaEmiya/RainmeterSkins_4K/raw/master/images/蓝牙.png" style="zoom: 50%;" />
 
-![](https://github.com/MikasaEmiya/RainmeterSkins_4K/raw/master/images/无线网络.png))
+<img src="https://github.com/MikasaEmiya/RainmeterSkins_4K/raw/master/images/无线网络.png" style="zoom: 50%;" />
 
 
 
