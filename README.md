@@ -4,15 +4,15 @@
 
 
 
-<img src="https://emiya.oss-cn-shanghai.aliyuncs.com/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BAryzen.png" style="zoom:50%;" />
+![](https://cdn.jsdelivr.net/gh/MikasaEmiya/images/img/关于本机ryzen.png)
 
 
 
-<img src="https://emiya.oss-cn-shanghai.aliyuncs.com/b450%E9%9F%B3%E9%A2%91.png" style="zoom:50%;" />
+![](https://cdn.jsdelivr.net/gh/MikasaEmiya/images/img/b450音频.png)
 
 
 
-<img src="https://emiya.oss-cn-shanghai.aliyuncs.com/WiFi%E8%93%9D%E7%89%99.png" style="zoom:50%;" />
+![](https://cdn.jsdelivr.net/gh/MikasaEmiya/images/img/WiFi蓝牙.png)
 
 
 
